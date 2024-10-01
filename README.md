@@ -3,7 +3,7 @@
 ## Exercise 1: Use Cases for Design Patterns
 
 ### Objective:
-This exercise demonstrates the application of six key design patterns (Iterator, Mediator, Singleton, Builder, Bridge, and Composite) to address common software design challenges. Each pattern is implemented in a real-world use case to show its benefits in terms of code maintainability, reusability, and scalability.
+This exercise demonstrates the application of six key design patterns (Iterator, Mediator, Singleton, Builder, Bridge, and Composite) to address common software design challenges.
 
 ### Design Patterns Implemented:
 1. **Iterator Pattern** - Playlist Management
@@ -28,7 +28,7 @@ This exercise demonstrates the application of six key design patterns (Iterator,
 ## Exercise 2: Real-Time Chat Application
 
 ### Objective:
-This exercise implements a real-time chat application using Java, focusing on the Observer, Singleton, and Adapter design patterns to achieve efficient and scalable message communication between users in chat rooms.
+This exercise implements a real-time chat application using Java, focusing on the Observer, Singleton, and Adapter design patterns to achieve message communication between users in chat rooms.
 
 ### Features:
 - **Create and Join Chat Rooms**: Users can create or join multiple chat rooms for real-time conversation.
