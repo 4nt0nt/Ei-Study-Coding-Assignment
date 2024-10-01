@@ -18,7 +18,7 @@ Use Case: *Playlist Management*
 
 **Example Application**: Chat Application
 - The `ChatRoom` class is a mediator to let different instances of `User` object send or receive messages but do not have references to each other directly.
-### . Creational Design Patterns
+### 2. Creational Design Patterns
 
 #### Singleton Pattern
 
