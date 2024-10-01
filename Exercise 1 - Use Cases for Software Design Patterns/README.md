@@ -8,7 +8,8 @@ This project demonstrates the use of several design patterns through practical u
 
 Use Case: *Playlist Management*
 - The `Playlist` class allows the addition of `Song` objects and gives back an iterator to access the playlist of songs in a straightforward way. That encapsulates logic for iteration and facilitates the use of enhanced for-loops.
-2. Behavioral Design Patterns
+
+###2. Behavioral Design Patterns
 
  
 
@@ -18,13 +19,13 @@ Use Case: *Playlist Management*
 
 **Example Application**: Chat Application
 - The `ChatRoom` class is a mediator to let different instances of `User` object send or receive messages but do not have references to each other directly.
-3. Creational Design Patterns
+###3. Creational Design Patterns
 
 #### Singleton Pattern
 
 Use Case: *Database Connection Manager*
 - The class `DatabaseConnectionManager` ensures that only one instance of the database connection exists in the entire application, hence making it responsible for managing resource efficiency and preventing any possibility of conflict due to connection.
-4. Creational Design Patterns
+###4. Creational Design Patterns
 
 #### Builder Pattern
 Use Case: *Preparation of a Meal*
