@@ -7,7 +7,7 @@ This project demonstrates the use of several design patterns through practical u
 ### 1. Behavioral Design Patterns
 
 #### Iterator Pattern
-**Use Case**: *Playlist Management*  
+**Use Case**: *Moving Through songs in a Playlist*  
 This pattern facilitates the management of a collection of objects, allowing for the addition and iteration of items in a straightforward manner. It encapsulates the iteration logic, enabling users to traverse the collection without exposing its internal structure.
 
 #### Mediator Pattern
@@ -34,5 +34,3 @@ This pattern decouples an abstraction from its implementation, allowing for the 
 **Use Case**: *File System Management*  
 This pattern allows for the creation of a tree structure that can represent both individual objects and compositions of objects uniformly. It simplifies the handling of complex hierarchies, such as file systems, by treating individual items and groups uniformly.
 
-## Conclusion
-This project showcases the application of different design patterns to create scalable and maintainable software. Each pattern addresses specific design challenges and demonstrates the power of design patterns in software development.
