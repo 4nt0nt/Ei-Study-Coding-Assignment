@@ -62,9 +62,11 @@ Entering the Server (The chat app), Each user is asked to enter details; their u
 Terminal 1: ![image](https://github.com/user-attachments/assets/ea449d90-c40d-4948-8b36-6619d05caf51)    Terminal 2: ![image](https://github.com/user-attachments/assets/a1be8c4e-ab0a-4788-8b51-25a150db0b0a)  
 Terminal 3: ![image](https://github.com/user-attachments/assets/2f93b399-70f8-41f9-8715-7aee415518a6)    Terminal 4: ![image](https://github.com/user-attachments/assets/48510ae7-ddcc-42fb-bffe-8cf8d4f55bdb)
 
+And as each user joins, the previously joined users get notified of the users joining after them...
+lets look into Terminal 1 as new users join (Terminals 2, 3, 4) -> ![image](https://github.com/user-attachments/assets/c0347f6a-4114-40db-8191-4f888f300512)
 
-
-
+**Note:** The room name entered - If the room doesnt already exist, it gets created and the user joins in, if it already exists, users join directly.
+Therefore for user 1, the room gets created when the enter room name, and for subsequent users, Since they enter the same name, the just join in the already created room.
 
 
 ### Features:
