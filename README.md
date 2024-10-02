@@ -68,6 +68,15 @@ lets look into Terminal 1 as new users join (Terminals 2, 3, 4) -> ![image](http
 **Note:** The room name entered - If the room doesnt already exist, it gets created and the user joins in, if it already exists, users join directly.
 Therefore for user 1, the room gets created when the enter room name, and for subsequent users, Since they enter the same name, the just join in the already created room.
 
+Message sent by one user (Terminal 1) -> ![image](https://github.com/user-attachments/assets/bdfc77c6-c2a0-4533-9ddb-e67a0d17f032)
+gets broadcasted to all other users -> 
+Terminal 2: ![image](https://github.com/user-attachments/assets/903c12e6-371e-4a21-94d7-511bb6c7e33c)
+
+Terminal 3: ![image](https://github.com/user-attachments/assets/d70e4205-bc1c-4a10-87e1-6c71bb944f9d)
+
+Terminal 4: ![image](https://github.com/user-attachments/assets/9d767c37-8085-414c-9478-3ae7a2c61223)
+
+
 
 ### Features:
 - Multiple Users can create or join chat rooms for real-time conversation.
