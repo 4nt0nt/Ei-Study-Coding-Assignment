@@ -8,6 +8,8 @@ This exercise demonstrates the application of six key design patterns (Iterator,
 ### Design Patterns Implemented:
 1. **Iterator Pattern** - Playlist Management
    - Allows sequential access to songs in a playlist without exposing its internal structure.
+   - ![image](https://github.com/user-attachments/assets/c5f5c628-8d1a-4746-b784-02020ee547b0)
+
 
 2. **Mediator Pattern** - Chat Application
    - Enables communication between users through a centralized mediator, simplifying dependencies.
