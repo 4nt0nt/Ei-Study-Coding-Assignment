@@ -80,11 +80,13 @@ Terminal 4: ![image](https://github.com/user-attachments/assets/9d767c37-8085-41
 
 and all users are able to reply with messages; ![image](https://github.com/user-attachments/assets/dca9131e-beb3-41bf-8614-4598152b7a20)
 
-Moreover, if any user wants to know the list of users present inside the chat app at any point of time, they can use the #actusers command
+Moreover, if any user wants to know the list of users present inside the chat app at any point of time, they can use the `#actusers` command
 
 It displays the current active users -> ![image](https://github.com/user-attachments/assets/330bd2db-8c1c-4e6d-9cf1-e7ccfc1f8172)
 
+Also, there is a private messaging feature, which unicasts a private message from one user to another user,
 
+The `#private` command is used in the format: `#private <desired username> -Message-` 
 
 ### Features:
 - Multiple Users can create or join chat rooms for real-time conversation.
