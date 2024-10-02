@@ -53,6 +53,7 @@ This exercise demonstrates the application of six key design patterns (Iterator,
 
 ### Objective:
 This exercise implements a real-time chat application using Java, focusing on the Observer, Singleton, and Adapter design patterns to achieve message communication between users in chat rooms.
+
 Classes: ![image](https://github.com/user-attachments/assets/8c836327-6b7d-42ee-b5a8-f71bec7ed5db)
 
 Usage is depicted with multiple terminals, where each terminal is a user (client) and attempts to connect to the chat server by creating a TCP socket to server's port number '33333'
