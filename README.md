@@ -78,6 +78,12 @@ Terminal 3: ![image](https://github.com/user-attachments/assets/d70e4205-bc1c-4a
 
 Terminal 4: ![image](https://github.com/user-attachments/assets/9d767c37-8085-414c-9478-3ae7a2c61223)
 
+and all users are able to reply with messages; ![image](https://github.com/user-attachments/assets/dca9131e-beb3-41bf-8614-4598152b7a20)
+
+Moreover, if any user wants to know the list of users present inside the chat app at any point of time, they can use the #actusers command
+
+It displays the current active users -> ![image](https://github.com/user-attachments/assets/330bd2db-8c1c-4e6d-9cf1-e7ccfc1f8172)
+
 
 
 ### Features:
