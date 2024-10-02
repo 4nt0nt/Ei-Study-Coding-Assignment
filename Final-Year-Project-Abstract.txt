@@ -1,22 +1,8 @@
-# Real-time Stress Detection System
+HOLISTIC STRESS DETECTION AND PHYSIOLOGICAL MONITORING USING VIDEO ANALYSIS
 
-Our project aims to develop a comprehensive system for real-time stress detection, integrating Electrodermal Activity (EDA) and facial feature analysis. The system will accurately predict stress by capturing facial expressions and physiological signals, combining advanced video analysis with signal processing techniques. 
+This project aims to develop a comprehensive system for real-time stress detection, integrating Electrodermal Activity (EDA) and facial feature analysis. The system will accurately predict stress by capturing facial expressions and physiological signals, combining advanced video analysis with signal processing techniques. To enhance accuracy, various predictive and classification models will be implemented, going beyond conventional methods to provide a more reliable assessment of stress. To analyse the performance and accuracy of models implemented on facial features and a combination of them along with physiological signals. 
 
-To enhance accuracy, various predictive and classification models will be implemented, going beyond conventional methods to provide a more reliable assessment of stress. The system will analyze the performance and accuracy of models implemented on facial features and a combination of them with physiological signals.
+Signals like rPPG (remote photoplethysmography) will be extracted from the face-videos in the dataset and uses as part of facial feature analysis, EDA (Electrodermal Activity) signals will be used as part of physiological signals analysis. Moreover, Blood Volume Pressure (BVP) will be used in combination with EDA to analyse the suggested models' performance and accuracy. Also signals like PRV (Pulse Rate Variability) will be derived and used for analysis from both videos as well as recorded physiological signals in the dataset.
 
-## Signals to be Analyzed
-
-1. **rPPG (Remote Photoplethysmography)**:
-   - Extracted from the face-videos in the dataset.
-   - Used as part of facial feature analysis.
-
-2. **EDA (Electrodermal Activity)**:
-   - Used as part of physiological signals analysis.
-
-3. **Blood Volume Pressure (BVP)**:
-   - Used in combination with EDA to analyze model performance and accuracy.
-
-4. **PRV (Pulse Rate Variability)**:
-   - Derived from both videos and recorded physiological signals in the dataset.
 
 
