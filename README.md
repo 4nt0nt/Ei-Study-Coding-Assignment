@@ -53,6 +53,19 @@ This exercise demonstrates the application of six key design patterns (Iterator,
 
 ### Objective:
 This exercise implements a real-time chat application using Java, focusing on the Observer, Singleton, and Adapter design patterns to achieve message communication between users in chat rooms.
+Classes: ![image](https://github.com/user-attachments/assets/8c836327-6b7d-42ee-b5a8-f71bec7ed5db)
+
+Usage is depicted with multiple terminals, where each terminal is a user (client) and attempts to connect to the chat server by creating a TCP socket to server's port number '33333'
+![image](https://github.com/user-attachments/assets/48769429-c4be-40dc-ae18-bdf3fbd0a6f4) (this is done in multiple terminals)
+
+Entering the Server (The chat app), Each user is asked to enter details; their username and the name of the room in which they want to join 
+Terminal 1: ![image](https://github.com/user-attachments/assets/ea449d90-c40d-4948-8b36-6619d05caf51)    Terminal 2: ![image](https://github.com/user-attachments/assets/a1be8c4e-ab0a-4788-8b51-25a150db0b0a)  
+Terminal 3: ![image](https://github.com/user-attachments/assets/2f93b399-70f8-41f9-8715-7aee415518a6)    Terminal 4: ![image](https://github.com/user-attachments/assets/48510ae7-ddcc-42fb-bffe-8cf8d4f55bdb)
+
+
+
+
+
 
 ### Features:
 - Multiple Users can create or join chat rooms for real-time conversation.
