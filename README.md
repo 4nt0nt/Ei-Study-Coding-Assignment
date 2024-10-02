@@ -31,11 +31,10 @@ This exercise demonstrates the application of six key design patterns (Iterator,
 This exercise implements a real-time chat application using Java, focusing on the Observer, Singleton, and Adapter design patterns to achieve message communication between users in chat rooms.
 
 ### Features:
-- **Create and Join Chat Rooms**: Users can create or join multiple chat rooms for real-time conversation.
-- **Real-Time Messaging**: Users can send and receive messages in real-time, with messages instantly broadcasted to all participants in the chat room.
-- **Observer Pattern**: Used to notify all users in a chat room when a new message is sent, allowing real-time communication without polling.
-- **Singleton Pattern**: Ensures that only one instance of the server and each chat room exists to manage efficient communication and resource usage.
-- **Adapter Pattern**: Adapts the chat message formats for different clients or interfaces, enabling flexible message handling.
+- Users can create or join multiple chat rooms for real-time conversation.
+- Users can send and receive messages in real-time, with messages instantly broadcasted to all participants in the chat room.
+- Used to notify all users in a chat room when a new message is sent, allowing real-time communication without polling.
+- Ensures that only one instance of the server and each chat room exists to manage efficient communication and resource usage.
 
 
 
