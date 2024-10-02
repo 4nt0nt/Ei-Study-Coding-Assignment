@@ -88,6 +88,9 @@ Also, there is a private messaging feature, which unicasts a private message fro
 
 The `#private` command is used in the format: `#private <desired username> -Message-` 
 
+Private message sent -> ![image](https://github.com/user-attachments/assets/0be26bad-3abc-4c6a-a14e-444ddf9d9d23)  Private message received -> ![image](https://github.com/user-attachments/assets/80d69c87-d2cc-47df-9834-8eec3b5b315c)
+
+
 ### Features:
 - Multiple Users can create or join chat rooms for real-time conversation.
 - Users can send and receive messages in real-time, with messages instantly broadcasted to all participants in the chat room.
